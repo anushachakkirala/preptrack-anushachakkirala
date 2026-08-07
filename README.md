@@ -189,6 +189,29 @@ This project demonstrates:
 * Report Generation
 * Problem Solving using Python
 
----
+# Individual Contribution
+
+**Name:** Anusha Chakkirala
+
+**Repository URL:** [https://github.com/anushachakkirala/preptrack-anushachakkirala]
+
+**My Main Contribution:**
+I was responsible for developing the core functionality of the PrepTrack Application. My work included collecting and validating student information, processing seven days of practice scores, analyzing performance, and generating the final placement-readiness report. I also implemented the decision-making logic that determines whether a student is ready for a mock interview based on multiple eligibility criteria.
+
+**Features I Implemented:**
+I implemented several important features in the project, including student name validation, attendance validation, project completion verification, and profile verification. I also developed the module for processing seven days of practice scores, classifying performance into Strong, Satisfactory, Needs Improvement, and Critical categories, and calculating performance metrics such as total score, average score, highest score, lowest score, and passed or failed practice days. Additionally, I created the final status evaluation and recommendation system.
+
+**Python Concepts I Used:**
+The project allowed me to apply several fundamental Python concepts. I used variables and different data types to store information, conditional statements for decision-making, while loops for input validation, and for loops for processing practice scores. I also used Boolean expressions, counters, accumulators, arithmetic operators, logical operators, and formatted output statements to generate a structured report.
+
+**Most Difficult Logic:**
+The most challenging part of the project was implementing the placement-readiness evaluation. The application needed to check several conditions such as attendance, average score, graduation year eligibility, practice count, passed days, project completion, and profile verification. Ensuring that the program identified the first major blocker according to the required priority order required careful planning and testing.
+
+**Problem I Faced:**
+One of the main difficulties I faced was handling absent practice days while calculating performance statistics. Absent days should not affect the total score, average score, highest score, lowest score, or pass/fail counts. Managing these conditions correctly without producing incorrect results was challenging during development.
+
+**How I Solved It:**
+I solved this issue by using separate counters and control variables to track attempted and absent days. Whenever a student was absent, the program skipped all score-related calculations using the `continue` statement. I also used flags to correctly initialize and update the highest score, lowest score, and first critical score only for valid attempted practices. This ensured that all calculations and reports were accurate.
+
 
 
