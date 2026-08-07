@@ -82,7 +82,6 @@ first_attempt_found = False
 critical_score_found = False
 first_critical_day = 0
 first_critical_score = 0
-
 # Process Seven Practice Days
 for day in range(1, 8):
 
@@ -255,48 +254,3 @@ else:
 print("\n" + "=" * 50)
 print("                 PREPTRACK REPORT")
 print("=" * 50)
-
-print("\nSTUDENT PROFILE\n")
-
-print(f"Student Name             : {student_name}")
-print(f"Registration Number      : {registration_number}")
-print(f"Graduation Year          : {graduation_year}")
-print(f"Attendance               : {attendance}")
-print(f"Project Completed        : {project_completed}")
-print(f"Profile Verified         : {profile_verified}")
-
-print("\nPRACTICE SUMMARY\n")
-
-print("Total Practice Days      : 7")
-print(f"Attempted Days           : {attempted_days}")
-print(f"Absent Days              : {absent_days}")
-print(f"Passed Days              : {passed_days}")
-print(f"Failed Days              : {failed_days}")
-
-print(f"Strong Days              : {strong_days}")
-print(f"Satisfactory Days        : {satisfactory_days}")
-print(f"Needs Improvement Days   : {improvement_days}")
-print(f"Critical Days            : {critical_days}")
-
-print("\nPERFORMANCE ANALYSIS\n")
-
-print(f"Total Score              : {total_score}")
-print(f"Average Score            : {average_score:.2f}")
-print(f"Highest Score            : {highest_score_display}")
-print(f"Highest Score Day        : {highest_day_display}")
-print(f"Lowest Score             : {lowest_score_display}")
-print(f"Lowest Score Day         : {lowest_day_display}")
-
-print("\nCRITICAL SCORE INFORMATION\n")
-
-print(f"Critical Score Found     : {critical_score_found}")
-print(f"First Critical Day       : {first_critical_day_display}")
-print(f"First Critical Score     : {first_critical_score_display}")
-
-print("\nFINAL DECISION\n")
-
-print(f"Final Status             : {final_status}")
-print(f"Primary Blocker          : {blocker}")
-print(f"Next Action              : {next_action}")
-
-print("\n" + "=" * 50)
