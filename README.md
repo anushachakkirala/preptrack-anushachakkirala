@@ -91,9 +91,7 @@ PrepTrack/
 │
 ├── preptrack.py
 ├── README.md
-```
 
----
 
 ## Sample output
 
@@ -132,8 +130,6 @@ Next Action           : Proceed to the placement mock interview
 
 
 
----
-
 ## Placement Readiness Criteria
 
 A student is considered **Ready for Mock Interview** only when all the following conditions are satisfied:
@@ -147,7 +143,8 @@ A student is considered **Ready for Mock Interview** only when all the following
 * Project Completed
 * Profile Verified
 
-#Mandatory Test Results
+## Mandatory Test Results
+
 | Test ID | Scenario                      | Expected Result                 | Actual Result                   | Status |
 | ------- | ----------------------------- | ------------------------------- | ------------------------------- | ------ |
 | TC-01   | All requirements satisfied    | Ready for Mock Interview        | Ready for Mock Interview        | Pass   |
