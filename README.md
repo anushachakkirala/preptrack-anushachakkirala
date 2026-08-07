@@ -71,7 +71,6 @@ Displays:
 * Primary Blocker
 * Recommended Next Action
 
----
 
 ## Technologies Used
 
@@ -140,7 +139,6 @@ A student is considered **Ready for Mock Interview** only when all the following
 * Passed Days ≥ 4
 * Project Completed
 * Profile Verified
-
 ## Mandatory Test Results
 
 | Test ID | Scenario                      | Expected Result                 | Actual Result                   | Status |
