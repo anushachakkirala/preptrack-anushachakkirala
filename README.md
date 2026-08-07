@@ -147,6 +147,24 @@ A student is considered **Ready for Mock Interview** only when all the following
 * Project Completed
 * Profile Verified
 
+#Mandatory Test Results
+| Test ID | Scenario                      | Expected Result                 | Actual Result                   | Status |
+| ------- | ----------------------------- | ------------------------------- | ------------------------------- | ------ |
+| TC-01   | All requirements satisfied    | Ready for Mock Interview        | Ready for Mock Interview        | Pass   |
+| TC-02   | One score below 40            | Critical Support Required       | Critical Support Required       | Pass   |
+| TC-03   | Fewer than six attempted days | Practice Incomplete             | Practice Incomplete             | Pass   |
+| TC-04   | Fewer than four passed days   | Insufficient Passed Practices   | Insufficient Passed Practices   | Pass   |
+| TC-05   | Average below 70              | Practice Improvement Required   | Practice Improvement Required   | Pass   |
+| TC-06   | Attendance below 75           | Attendance Improvement Required | Attendance Improvement Required | Pass   |
+| TC-07   | Graduation year not eligible  | Graduation Criteria Not Met     | Graduation Criteria Not Met     | Pass   |
+| TC-08   | Project incomplete            | Application On Hold             | Application On Hold             | Pass   |
+| TC-09   | Profile not verified          | Application On Hold             | Application On Hold             | Pass   |
+| TC-10   | All seven days absent         | Practice Not Evaluated          | Practice Not Evaluated          | Pass   |
+| TC-11   | Invalid score below -1        | Input Rejected                  | Input Rejected                  | Pass   |
+| TC-12   | Invalid score above 100       | Input Rejected                  | Input Rejected                  | Pass   |
+| TC-13   | Exact boundary scores         | Correct Classifications         | Correct Classifications         | Pass   |
+| TC-14   | Multiple failed requirements  | First Major Blocker Displayed   | First Major Blocker Displayed   | Pass   |
+
 
 # Individual Contribution
 

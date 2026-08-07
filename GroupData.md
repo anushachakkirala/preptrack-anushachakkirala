@@ -8,3 +8,4 @@
 |Uday Hiremanth        | https://github.com/uday6004/preptrack-Uday          | Completed |
 |Likhitha k            | https://github.com/22hr1a0455/preptrack-likhitha	 | Completed |
 |Chaitanya Varma       | https://github.com/chaitanyavarma-11/preptrack-chaitanya | Completed |
+|G Supriya             | https://github.com/supriyagoudanabhavi-cmd/preptrack-gsupriya | Completed |
