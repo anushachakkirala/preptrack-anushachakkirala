@@ -86,7 +86,7 @@ Displays:
 
 ## Project Structure
 
-```text
+
 PrepTrack/
 │
 ├── preptrack.py
@@ -95,27 +95,42 @@ PrepTrack/
 
 ---
 
-## Sample Execution
+## Sample output
 
-```text
 ==================================================
-              PREPTRACK APPLICATION
+           PREPTRACK REPORT
 ==================================================
+Student Name          : Anusha Chakkirala
+Registration Number   : 22kn1a4411
+Graduation Year       : 2026
+Attendance            : 91.4%
 
-Enter student name: Ananya Sharma
-Enter registration number: PY24038
-Enter graduation year: 2026
-Enter attendance percentage: 82
+Attempted Days        : 7
+Absent Days           : 0
+Passed Days           : 7
+Failed Days           : 0
 
-Has the student completed the required project?
-Enter yes or no: yes
+Strong Days           : 6
+Satisfactory Days     : 1
+Needs Improvement Days: 0
+Critical Days         : 0
 
-Is the student profile verified?
-Enter yes or no: yes
+Total Score           : 611
+Average Score         : 87.29
+Highest Score         : 99
+Highest Score Day     : 6
+Lowest Score          : 67
+Lowest Score Day      : 3
 
-Enter Day 1 score from 0 to 100, or -1 for absent: 80
-Day 1 Result: Strong
-```
+Critical Score Found  : No
+First Critical Day    : Not Applicable
+First Critical Score  : Not Applicable
+
+Final Status          : Ready for Mock Interview
+Primary Blocker       : None
+Next Action           : Proceed to the placement mock interview
+
+
 
 ---
 
@@ -132,62 +147,6 @@ A student is considered **Ready for Mock Interview** only when all the following
 * Project Completed
 * Profile Verified
 
----
-
-## Output Report
-
-The generated report includes:
-
-### Student Profile
-
-* Student Name
-* Registration Number
-* Graduation Year
-* Attendance
-* Project Status
-* Profile Verification Status
-
-### Practice Summary
-
-* Total Practice Days
-* Attempted Days
-* Absent Days
-* Passed Days
-* Failed Days
-
-### Performance Analysis
-
-* Total Score
-* Average Score
-* Highest Score
-* Lowest Score
-
-### Critical Score Information
-
-* Critical Score Found
-* First Critical Day
-* First Critical Score
-
-### Final Decision
-
-* Final Status
-* Primary Blocker
-* Next Action
-
----
-
-## Learning Outcomes
-
-This project demonstrates:
-
-* Input Validation
-* Looping Structures
-* Conditional Logic
-* Boolean Expressions
-* Data Processing
-* Performance Analysis
-* Report Generation
-* Problem Solving using Python
 
 # Individual Contribution
 
