@@ -6,8 +6,6 @@ print("=" * 50)
 student_name=input("Enter the student name:")
 if len(student_name)==0:
     print("Invalid input!Please enter a valid name.")
-else:
-    print(student_name)
 
 # Registration Number
 registration_number = input("Enter registration number: ")
