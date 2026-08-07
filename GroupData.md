@@ -11,3 +11,9 @@
 |G Supriya             | https://github.com/supriyagoudanabhavi-cmd/preptrack-gsupriya | Completed |
 |Prabhas Yadav         | https://github.com/gentemprabhas-code/preptrack-Prabhas       | Completed |
 |Shaik Basha           | https://github.com/Gousebasha786786/preptrack-gouse_basha     | Completed |
+|Shaik Kareena         | https://github.com/Shaikkareena78/preptrack-kareena           | Completed |
+|M Abinaya Shri        |                                                               |  Pending  |
+|Ravi Kumar            |                                                               |  Pending  | 
+|M Vedhanath           |                                                               |  Pending  |
+|Sai Charan            |                                                               |  Pending  |
+|Subham Pradhan        |                                                               |  Pending  |
