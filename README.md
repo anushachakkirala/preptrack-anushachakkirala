@@ -94,9 +94,8 @@ PrepTrack/
 
 
 ## Sample output
+  *****PREPTRACK REPORT*****
 
-================================================
-           PREPTRACK REPORT
 Student Name          : Anusha Chakkirala
 Registration Number   : 22kn1a4411
 Graduation Year       : 2026
