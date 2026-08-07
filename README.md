@@ -1,4 +1,4 @@
-# PrepTrack Application
+# PrepTrack — Placement Preparation Performance Analyzer
 
 ## Overview
 
