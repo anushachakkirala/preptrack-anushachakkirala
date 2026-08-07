@@ -13,14 +13,12 @@ else:
 registration_number = input("Enter registration number: ")
 
 # Graduation Year
-
+graduation_year = int(input("Enter graduation year: "))
 graduation_eligible = (
     graduation_year >= 2025
     and graduation_year <= 2027)
 if not graduation_eligible:
-    print("You are not eligible")
-else:
-    graduation_year = int(input("Enter graduation year: "))
+    print("You are not eligible for graduation.")
 # Attendance Validation
 while True:
     attendance = float(input("Enter attendance percentage: "))
