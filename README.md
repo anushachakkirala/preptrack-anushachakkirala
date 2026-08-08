@@ -139,7 +139,7 @@ A student is considered **Ready for Mock Interview** only when all the following
 * Passed Days ≥ 4
 * Project Completed
 * Profile Verified
-## Mandatory Test Resultss
+## Mandatory Test Results
 
 
 | Test ID | Scenario                      | Expected Result                 | Actual Result                   | Status |
