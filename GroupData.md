@@ -13,7 +13,7 @@
 |Shaik Basha           | https://github.com/Gousebasha786786/preptrack-gouse_basha     | Completed |
 |Shaik Kareena         | https://github.com/Shaikkareena78/preptrack-kareena           | Completed |
 |M Abinaya Shri        |                                                               |  Pending  |
-|Ravi Kumar            |                                                               |  Pending  | 
-|M Vedhanath           |                                                               |  Pending  |
-|Sai Charan            |                                                               |  Pending  |
+|Ravi Kumar            |https://github.com/RAVIKUMAR-N1/pretrack-Ravikumar             | Completed | 
+|M Vedhanath           |https://github.com/vedhanath719/Preptrack-VedhanathReddy       | Completed |
+|Sai Charan            |https://github.com/bsaicharan18/preptrack-saicharan            | Completed |
 |Subham Pradhan        |                                                               |  Pending  |
